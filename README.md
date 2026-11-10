@@ -1,2 +1,1 @@
-# thingsIDo
-Things I do.
+wizard-parkour.itch.io
